@@ -10,6 +10,6 @@ Decision Trees
 
 Neural Networks (2-layer, DNNs, CNNs)
 
-Model Fine-Tuning (with sklearn/TensorFlow)
+Model Fine-Tuning (with pyTorch/TensorFlow)
 
 Performance Analysis & Plots
